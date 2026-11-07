@@ -1,0 +1,6 @@
+{
+  "name": "SynthChuri 1984 - 80s Vintage Synth & Drum Machine Studio",
+  "description": "Authentic 1980s music recreation workstation with vintage synthesizers, LinnDrum/TR-808 drum machine, analog tape warmth, period rhythmic patterns, Lyria AI music generator, and Gemini 4 Argon deep musicology reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
